@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NASA-POD/static/css/main.d4d52e8f.chunk.css",
+    "main.js": "/NASA-POD/static/js/main.8ddffe47.chunk.js",
+    "main.js.map": "/NASA-POD/static/js/main.8ddffe47.chunk.js.map",
+    "runtime~main.js": "/NASA-POD/static/js/runtime~main.90f861f3.js",
+    "runtime~main.js.map": "/NASA-POD/static/js/runtime~main.90f861f3.js.map",
+    "static/js/2.f95f0d84.chunk.js": "/NASA-POD/static/js/2.f95f0d84.chunk.js",
+    "static/js/2.f95f0d84.chunk.js.map": "/NASA-POD/static/js/2.f95f0d84.chunk.js.map",
+    "index.html": "/NASA-POD/index.html",
+    "precache-manifest.386db33b164a92504de0be4ec34acce3.js": "/NASA-POD/precache-manifest.386db33b164a92504de0be4ec34acce3.js",
+    "service-worker.js": "/NASA-POD/service-worker.js",
+    "static/css/main.d4d52e8f.chunk.css.map": "/NASA-POD/static/css/main.d4d52e8f.chunk.css.map",
+    "static/media/logo.svg": "/NASA-POD/static/media/logo.5d5d9eef.svg"
+  }
+}
