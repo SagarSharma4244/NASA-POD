@@ -1,9 +1,12 @@
 {
   "name": "nasa-react-bootstrap",
+  "homepage": "https://sagarsharma4244.github.io/NASA-POD/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },

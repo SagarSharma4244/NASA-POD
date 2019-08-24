@@ -1,33 +1,34 @@
-.App {
+html {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+.container1 {
+  margin: 0 auto;
+  padding: 0;
+  width: 95%;
+}
+#returnCopyright {
   text-align: center;
+  color: rgb(26, 26, 26);
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.text {
+  outline: 0;
+  margin: auto 0;
+}
+.image {
+  outline: 0;
+  margin: auto 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h1 {
+  font-family: "Abril Fatface", cursive;
 }
-
-.App-link {
-  color: #61dafb;
+span {
+  font-family: "Montserrat", cursive;
+  color: rgb(97, 97, 97);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+  font-family: "Montserrat", cursive;
 }
